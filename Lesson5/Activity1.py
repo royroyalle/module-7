@@ -6,7 +6,7 @@ win.geometry("1000x1000")
 win.title("Denomination Calculator")
 win.configure(bg= "Light Blue")
 
-upload = Image.open("app_img.png")
+upload = Image.open("bg.jpg")
 upload.resize((500, 500))
 image = ImageTk.PhotoImage(upload)
 
