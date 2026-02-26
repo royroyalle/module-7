@@ -9,7 +9,6 @@ class RockPaperScissors:
         self.root.geometry("400x450")
         self.root.resizable(False, False)
 
-        # Game State
         self.user_score = 0
         self.comp_score = 0
         self.choices = ["Rock", "Paper", "Scissors"]
