@@ -59,7 +59,6 @@ def topwin():
     l4 = Label(top, text= "Coke", bg= "light grey")
     l5 = Label(top, text= "Cheese Nuggets", bg= "light grey")
     l6 = Label(top, text= "Rice", bg= "light grey")
-
     e1 = Entry(top)
     e2 = Entry(top)
     e3 = Entry(top)
